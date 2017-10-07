@@ -1,0 +1,11 @@
+<div class="span10">
+<article>
+	<h1>
+		<?=$topic->title?>
+	</h1>
+	<div>
+		<?=$topic->description?>
+		<?php var_dump($topic); ?>
+	</div>
+</article>
+</div>

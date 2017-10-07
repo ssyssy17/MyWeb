@@ -1,0 +1,12 @@
+{
+    "name": "ssy/composer-app",
+    "authors": [
+        {
+            "name": "ssy",
+            "email": "ssyssy17@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
